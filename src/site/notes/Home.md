@@ -4,3 +4,5 @@
 
 # 💾Base de datos relacional
 Este es un repositorio que centraliza notas de estudio referentes a las bases de datos relacionales. 
+
+Edgar God 
